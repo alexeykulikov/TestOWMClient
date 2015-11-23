@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OWM</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="city">City</string>
+    <string name="appid">APPID</string>
+</resources>
